@@ -187,6 +187,9 @@ for w, true, pred in zip(X_test[i], y_true, p[0]):
 
 ![image](https://github.com/user-attachments/assets/75c52902-9ad2-47f9-838a-b49aec54a934)
 
+![image](https://github.com/user-attachments/assets/fcef0f1e-6da8-4e55-88e1-a1f104e986a4)
+
+
 
 ## RESULT
 
